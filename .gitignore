@@ -17,3 +17,8 @@ ENV/
 
 # VS Code
 .vscode/
+
+# Sampled Folders
+.undersampled
+.oversampled
+.baseline
