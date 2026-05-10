@@ -22,3 +22,4 @@ ENV/
 .undersampled
 .oversampled
 .baseline
+.test_data
